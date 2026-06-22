@@ -1,0 +1,39 @@
+﻿Symbol|Name|Industry Name|RS Rating|EPS Rating|Comp Rating|A/D Rating|SMR Rating|Ind Group Rank
+SIRI|Sirius XM Holdings Inc.|Telecom/Cable Services|79|25|49|B|C|123
+NOK|Nokia Corp. ADR|Telecom-Infrastructure|97|66|89|C+|C|1
+OOMA|Ooma Inc.|Telecom-Consumer Prods|85|98|88|D|C|41
+HLIT|Harmonic Inc.|Telecom - Equipment|92|65|87|B|C|24
+SATS|EchoStar Corp.|Telecom - Equipment|85|19|50|E|D|24
+VIAV|Viavi Solutions Inc.|Telecom - Equipment|98|92|91|D-|C|24
+HR|Healthcare Realty Trust Inc.|REITs|72|52|76|B|D|39
+ABSI|Absci Corp.|Medical - Pharmaceuticals|98|35|73|A|E|87
+NDSN|Nordson Corp.|Machinery-Gen Industrial|72|75|82|D|A|86
+VELO|Velo3D Inc.|Machinery-Gen Industrial|98|75|86|A+|E|86
+ADEA|Adeia Inc.|Internet-Content|95|80|97|B|A|56
+FCEL|FuelCell Energy Inc.|Energy-Alternative/Other|99|52|80|C+|D|33
+FLNC|Fluence Energy Inc.|Energy-Alternative/Other|90|29|63|C-|D|33
+HYLN|Hyliion Holdings Corp.|Energy-Alternative/Other|99|35|79|B+|E|33
+TE|T1 Energy Inc.|Energy-Alternative/Other|88|47|74|B-|D|33
+LFUS|Littelfuse Inc.|Electronic-Parts|94|66|92|B-|C|3
+ADI|Analog Devices Inc.|Elec-Semiconductor Mfg|91|85|97|C|A|10
+AXTI|AXT Inc.|Elec-Semiconductor Mfg|99|67|76|E|D|10
+MRAM|Everspin Technologies Inc.|Elec-Semiconductor Mfg|99|38|75|C|C|10
+ACMR|ACM Research Inc. Cl A|Elec-Semiconductor Equip|98|48|95|B+|A|4
+LPTH|Lightpath Technologies Inc. Cl A|Elec-Scientific/Msrng|95|19|65|D|C|8
+GLW|Corning Inc.|Elec-Misc Products|95|90|92|E|A|19
+OUST|Ouster Inc.|Elec-Misc Products|95|60|89|B|C|19
+DAVE|Dave Inc.|Computer-Tech Services|89|81|95|A+|A|126
+GRRR|Gorilla Technology Group Inc.|Computer-Tech Services|73|5|33|A-|D|126
+HPE|Hewlett Packard Enterprise Co.|Computer-Tech Services|97|87|89|A-|B|126
+IBM|International Business Machines Corp.|Computer-Tech Services|46|84|72|B|A|126
+UIS|Unisys Corp.|Computer-Tech Services|73|26|39|B|E|126
+DELL|Dell Technologies Inc. Cl C|Computer-Hardware/Perip|99|97|99|A-|C|2
+BB|BlackBerry Ltd.|Computer Sftwr-Security|97|79|95|A-|D|7
+OKTA|Okta Inc. Cl A|Computer Sftwr-Security|84|87|96|A|B|7
+SVCO|Silvaco Group Inc.|Computer Sftwr-Design|98|36|64|A|D|131
+MDB|MongoDB Inc.|Computer Sftwr-Database|72|94|88|B|C|60
+DUOT|Duos Technologies Group Inc.|Comp Sftwr - Enterprise|87|50|63|B-|D|122
+SNOW|Snowflake Inc.|Comp Sftwr - Enterprise|71|95|82|A-|C|122
+FA|First Advantage Corp.|Comml Svcs-Staffing|74|84|94|A+|C|16
+TBLA|Taboola.com Ltd.|Comml Svcs-Advertising|89|79|94|A|C|67
+GIII|G-III Apparel Group Ltd.|Apparel - Clothing & Shoes|85|17|69|A|C|79
